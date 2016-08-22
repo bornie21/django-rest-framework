@@ -96,3 +96,9 @@ ENV/
 #Database Files
 db.sqlite3
 
+#Custom Files
+apiWrapperRefactor.py
+ClassBasedViewsRefactor.py
+beforeRefactorView.py
+mixinsRefactor.py
+
